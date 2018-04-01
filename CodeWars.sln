@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SentenceSmash", "SentenceSm
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abbreviate a Two Word Name", "Abbreviate a Two Word Name\Abbreviate a Two Word Name.csproj", "{FCA1DFA9-D786-4E23-8FAB-7333B9DF0172}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupersizeDigits", "SupersizeDigits\SupersizeDigits.csproj", "{E9BF7207-13FD-4875-BBFE-F41C43EB0A3D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{FCA1DFA9-D786-4E23-8FAB-7333B9DF0172}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCA1DFA9-D786-4E23-8FAB-7333B9DF0172}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCA1DFA9-D786-4E23-8FAB-7333B9DF0172}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9BF7207-13FD-4875-BBFE-F41C43EB0A3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9BF7207-13FD-4875-BBFE-F41C43EB0A3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9BF7207-13FD-4875-BBFE-F41C43EB0A3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9BF7207-13FD-4875-BBFE-F41C43EB0A3D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
