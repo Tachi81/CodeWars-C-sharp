@@ -23,15 +23,16 @@ namespace Abbreviate_a_Two_Word_Name
             AbbrevName("Evan Cole");
             AbbrevName("P Favuzzi");
             AbbrevName("David Mendieta");
+
+            Console.ReadKey();
         }
 
         public static string AbbrevName(string name)
         {
             var names = name.ToUpper().Split(' ');
+            Console.WriteLine(String.Join(".", names[0][0], names[1][0]));
+
             return String.Join(".", names[0][0], names[1][0]);
-
-      
-
         }
     }
 }
