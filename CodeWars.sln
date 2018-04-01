@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplesOf3Or5", "Multiple
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighestScoringWord", "HighestScoringWord\HighestScoringWord.csproj", "{D5ADADD1-A0CB-4AC5-B386-3777B36CBBC7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YouOnlyNeedOne", "YouOnlyNeedOne\YouOnlyNeedOne.csproj", "{67366438-7EE7-4C59-BC9D-D4F993FB4127}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{D5ADADD1-A0CB-4AC5-B386-3777B36CBBC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5ADADD1-A0CB-4AC5-B386-3777B36CBBC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5ADADD1-A0CB-4AC5-B386-3777B36CBBC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67366438-7EE7-4C59-BC9D-D4F993FB4127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67366438-7EE7-4C59-BC9D-D4F993FB4127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67366438-7EE7-4C59-BC9D-D4F993FB4127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67366438-7EE7-4C59-BC9D-D4F993FB4127}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
